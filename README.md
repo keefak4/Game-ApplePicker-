@@ -1,2 +1,2 @@
-# Game-ApplePicker-
+# Game-ApplePicker
 A game about picking apples
